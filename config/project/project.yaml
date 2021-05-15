@@ -1,0 +1,22 @@
+dateModified: 1621056944
+email:
+  fromEmail: gurpreet1161@gmail.com
+  fromName: rnv
+  transportType: craft\mail\transportadapters\Sendmail
+plugins:
+  craftql:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.1.0
+system:
+  edition: solo
+  live: true
+  name: rnv
+  schemaVersion: 3.6.8
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
